@@ -2,8 +2,20 @@
   "posts": [
     {
       "id": 1,
-      "name": "Test",
+      "name": "Test1",
+      "date": "2020-01-01",
+      "url": "test"
+    },
+    {
+      "id": 2,
+      "name": "Test2",
       "date": "2020-01-02",
+      "url": "test"
+    },
+    {
+      "id": 3,
+      "name": "Test3",
+      "date": "2020-01-03",
       "url": "test"
     }
   ]
