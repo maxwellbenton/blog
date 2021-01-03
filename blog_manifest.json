@@ -4,19 +4,19 @@
       "id": 1,
       "name": "Test1",
       "date": "2020-01-01",
-      "url": "test"
+      "url": "https://raw.githubusercontent.com/maxwellbenton/blog/main/README.md"
     },
     {
       "id": 2,
       "name": "Test2",
       "date": "2020-01-02",
-      "url": "test"
+      "url": "https://raw.githubusercontent.com/maxwellbenton/blog/main/README.md"
     },
     {
       "id": 3,
       "name": "Test3",
       "date": "2020-01-03",
-      "url": "test"
+      "url": "https://raw.githubusercontent.com/maxwellbenton/blog/main/README.md"
     }
   ]
 }
